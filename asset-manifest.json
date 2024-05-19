@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9aa5616.chunk.css",
-    "main.js": "/static/js/main.9577ec20.chunk.js",
-    "main.js.map": "/static/js/main.9577ec20.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.19f1cca5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.19f1cca5.js.map",
-    "static/js/2.5454327f.chunk.js": "/static/js/2.5454327f.chunk.js",
-    "static/js/2.5454327f.chunk.js.map": "/static/js/2.5454327f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4069fe6097f45a08f98dd2e66bce615d.js": "/precache-manifest.4069fe6097f45a08f98dd2e66bce615d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e9aa5616.chunk.css.map": "/static/css/main.e9aa5616.chunk.css.map",
-    "static/media/correct.svg": "/static/media/correct.bb8217dd.svg",
-    "static/media/drag.svg": "/static/media/drag.798001c0.svg",
-    "static/media/gear.svg": "/static/media/gear.f3cf93b3.svg",
-    "static/media/help.svg": "/static/media/help.0a607ec2.svg",
-    "static/media/incorrect.svg": "/static/media/incorrect.26fb2114.svg",
-    "static/media/index.css": "/static/media/quiz-bg.5dacd004.png"
+    "main.css": "/json-flashcards-deployment/static/css/main.3801137c.chunk.css",
+    "main.js": "/json-flashcards-deployment/static/js/main.53a05232.chunk.js",
+    "main.js.map": "/json-flashcards-deployment/static/js/main.53a05232.chunk.js.map",
+    "runtime-main.js": "/json-flashcards-deployment/static/js/runtime-main.5000e184.js",
+    "runtime-main.js.map": "/json-flashcards-deployment/static/js/runtime-main.5000e184.js.map",
+    "static/js/2.5454327f.chunk.js": "/json-flashcards-deployment/static/js/2.5454327f.chunk.js",
+    "static/js/2.5454327f.chunk.js.map": "/json-flashcards-deployment/static/js/2.5454327f.chunk.js.map",
+    "index.html": "/json-flashcards-deployment/index.html",
+    "precache-manifest.a50d477a44261340258c10bf42e58bf5.js": "/json-flashcards-deployment/precache-manifest.a50d477a44261340258c10bf42e58bf5.js",
+    "service-worker.js": "/json-flashcards-deployment/service-worker.js",
+    "static/css/main.3801137c.chunk.css.map": "/json-flashcards-deployment/static/css/main.3801137c.chunk.css.map",
+    "static/media/correct.svg": "/json-flashcards-deployment/static/media/correct.bb8217dd.svg",
+    "static/media/drag.svg": "/json-flashcards-deployment/static/media/drag.798001c0.svg",
+    "static/media/gear.svg": "/json-flashcards-deployment/static/media/gear.f3cf93b3.svg",
+    "static/media/help.svg": "/json-flashcards-deployment/static/media/help.0a607ec2.svg",
+    "static/media/incorrect.svg": "/json-flashcards-deployment/static/media/incorrect.26fb2114.svg",
+    "static/media/index.css": "/json-flashcards-deployment/static/media/quiz-bg.5dacd004.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.19f1cca5.js",
+    "static/js/runtime-main.5000e184.js",
     "static/js/2.5454327f.chunk.js",
-    "static/css/main.e9aa5616.chunk.css",
-    "static/js/main.9577ec20.chunk.js"
+    "static/css/main.3801137c.chunk.css",
+    "static/js/main.53a05232.chunk.js"
   ]
 }
